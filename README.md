@@ -1,6 +1,6 @@
 [![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Finfo.armut.com%2Fnasil-guclu-bir-profil-olustururum&psig=AOvVaw0C2Omj_PwvjtOzsq9jEn0-&ust=1706971021980000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCWz-LwjIQDFQAAAAAdAAAAABAE](https://cdn.pixabay.com/photo/2020/07/14/13/07/icon-5404125_960_720.png))
-<h1 align="center">Hi 👋, I'm İbrahim Ethem Dinçer</h1>
-<h3 align="center">Türkiye de Yazılım Öğrencisiyim</h3>
+<h1 align="center">Merhaba 👋, Ben İbrahim Ethem Dinçer</h1>
+<h3 align="center">Türkiye de  Öğrenciyim</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
